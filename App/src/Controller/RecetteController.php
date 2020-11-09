@@ -2,6 +2,7 @@
 
 namespace App\Controller;
 
+use App\Entity\Recette;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
